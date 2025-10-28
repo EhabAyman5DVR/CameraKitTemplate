@@ -54,3 +54,9 @@
    
 ## For Debug purposes for vite, we added custom launch.json to look for our folder upon debug build
    npm run deploy to push changes to github pages
+
+
+## For keeping up to date with the template, add this repo as an upstream in your copy of the repo,
+   git remote add upstream https://github.com/EhabAyman5DVR/CameraKitTemplate.git 
+   git fetch upstream
+   git merge upstream/main
