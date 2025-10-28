@@ -56,7 +56,10 @@
    npm run deploy to push changes to github pages
 
 
-## For keeping up to date with the template, add this repo as an upstream in your copy of the repo,
-   git remote add upstream https://github.com/EhabAyman5DVR/CameraKitTemplate.git 
-   git fetch upstream
-   git merge upstream/main
+### 🔄 Stay up to date with the template
+To get the latest updates from this template in your project:
+
+```bash
+git remote add upstream https://github.com/ehabdev/camerakit-web-template.git
+git fetch upstream
+git merge upstream/main
